@@ -2,6 +2,9 @@
   <Folder Name="/Solution Items/">
     <File Path="README.md" />
   </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/PM.Core.Tests/PM.Core.Tests.csproj" Id="3abb62f7-180b-46ce-8187-516ecc0dff95" />
+  </Folder>
   <Project Path="PM.Core/PM.Core.csproj" />
   <Project Path="PM.InventoryService/PM.InventoryService.csproj" />
 </Solution>
